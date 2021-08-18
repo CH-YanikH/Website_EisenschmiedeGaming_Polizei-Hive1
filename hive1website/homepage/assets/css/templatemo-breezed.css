@@ -271,7 +271,8 @@ a.text-button-icon:hover i {
 	min-height: 80px;
 	background-color: rgb(255,255,255,0.3);
 	padding-left: 25px;
-	padding-right: 25px;
+	padding-right: 35vw;
+	width: 99vw;
 }
 .header-area .main-nav .logo {
 	line-height: 80px;
@@ -1464,4 +1465,31 @@ div, iframe {
 .dark-mode {
 	background-color: black;
 	color: white;
+}
+
+.bottom {
+display: inline-block;
+width: 4em;
+height: 4em;
+border: 0.5em solid #333;
+border-radius: 50%;
+margin-left: -0.11em;
+transition-duration: 0.4s;
+}
+
+.bottom:after {
+content: '';
+	display: inline-block;
+margin-top: 0.6em;
+width: 1.4em;
+height: 1.4em;
+border-top: 0.5em solid #333;
+border-right: 0.5em solid #333;
+-moz-transform: rotate(135deg);
+-webkit-transform: rotate(135deg);
+transform: rotate(135deg);
+}
+
+.bottom:hover {
+	transform: scale(1.1);
 }
