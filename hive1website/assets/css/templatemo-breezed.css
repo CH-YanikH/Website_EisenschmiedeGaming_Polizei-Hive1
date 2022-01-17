@@ -922,7 +922,7 @@ ul.slick-dots {
 /*---------------------------------------------subscribe---------------------------------------------*/
 #subscribe {
 	padding: 80px 0px;
-	background-image: url(../images/slide-02.jpg);
+	background-image: url(../images/slide-02.webp);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -972,7 +972,7 @@ ul.slick-dots {
 	margin-top: 120px;
 	padding: 80px 0px;
 	padding: 120px 0px;
-	background-image: url(../images/slide-03.jpg);
+	background-image: url(../images/slide-03.webp);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1104,7 +1104,7 @@ ul.slick-dots {
 }
 #contact-us {
 	padding: 120px 0px;
-	/*background-image: url(../images/dotted-map-bg.png);
+	/*background-image: url(../images/dotted-map-bg.webp);
 	*/
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -1128,7 +1128,7 @@ ul.slick-dots {
 }
 #contact-us2 {
 	padding: 120px 0px;
-	background-image: url(../images/dotted-map-blue.png);
+	background-image: url(../images/dotted-map-blue.webp);
 	background-size: 32.5%;
 	background-position: center bottom;
 	background-repeat: no-repeat;
