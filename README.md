@@ -1,4 +1,4 @@
-# Website_PolizeiHive1
+# Website PolizeiHive1 (Eisenschmiede-Gaming)
 Welcome to the GitHub page for the former website of the Police Unit within the Eisenschmiede Gaming Project.
 
 Our website served as a hub for essential documents related to police operations, internship information, and an introduction to our leadership team. Unfortunately, the site has since been closed and is now outdated.
