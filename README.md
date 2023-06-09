@@ -9,8 +9,9 @@ Link to the new website: https://sites.google.com/view/police-hive-1/startseite
 
 We apologize for any inconvenience caused by the closure of the previous website. We highly encourage you to explore our new website to stay informed and engaged with the Eisenschmiede Gaming Project's police unit. 
 
-Thank you for your continued support and thanks to all contributors: Justin Kosten (Justin), John McGarrett (Hannes) and John McTeabow (Yanik).
+Thank you for your continued support and thanks to all contributors: Justin Kosten (Justin), John McGarrett (Hannes) 
+and John McTeabow (Yanik).
 
 Best regards,
 
-Eisenschmiede Gaming police leadership
+your police leadership
