@@ -1,6 +1,13 @@
 # Website_PolizeiHive1
-Welcome to the website of the police unit for the gaming project "Eisenschmiede-Gaming Altis Life." Although the project is now closed, this platform served as the official hub for our dedicated police force within the Altis Life gaming community. Here, you could find information about our team, our goals, and the services we provided to ensure a safe and immersive gaming experience for all players.
+Welcome to the GitHub page for the former website of the Police Unit within the Eisenschmiede Gaming Project.
 
-As the website has come to an end, we would like to redirect you to our new website, where you can explore our latest endeavors and connect with our community. Please visit https://sites.google.com/view/police-hive-1/startseite to stay updated and join us in exciting adventures.
+Our website served as a hub for essential documents related to police operations, internship information, and an introduction to our leadership team. Unfortunately, the site has since been closed and is now outdated.
 
-Thank you for your support and we look forward to welcoming you on our new platform!
+However, we are excited to announce the launch of our new website, which will serve as a more up-to-date and comprehensive resource for the police unit. We have provided a link below to access the new website, where you will find the latest information, important documents, and updates related to our operations.
+
+Link to the new website: [Insert Link]
+
+We apologize for any inconvenience caused by the closure of the previous website. We highly encourage you to explore our new website to stay informed and engaged with the Eisenschmiede Gaming Project's police unit. Thank you for your continued support.
+
+Best regards,
+The Eisenschmiede Gaming police leadership
