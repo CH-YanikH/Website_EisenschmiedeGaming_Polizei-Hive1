@@ -7,7 +7,9 @@ However, we are excited to announce the launch of our new website, which will se
 
 Link to the new website: https://sites.google.com/view/police-hive-1/startseite
 
-We apologize for any inconvenience caused by the closure of the previous website. We highly encourage you to explore our new website to stay informed and engaged with the Eisenschmiede Gaming Project's police unit. Thank you for your continued support.
+We apologize for any inconvenience caused by the closure of the previous website. We highly encourage you to explore our new website to stay informed and engaged with the Eisenschmiede Gaming Project's police unit. 
+
+Thank you for your continued support and thanks to our contributers: Justin Kosten (Justin), John McGarrett (Hannes) and John McTeabow (Yanik)
 
 Best regards,
 The Eisenschmiede Gaming police leadership
