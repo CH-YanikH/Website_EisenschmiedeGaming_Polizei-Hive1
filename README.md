@@ -12,5 +12,4 @@ We apologize for any inconvenience caused by the closure of the previous website
 Thank you for your continued support and thanks to all contributors: Justin Kosten (Justin), John McGarrett (Hannes) and John McTeabow (Yanik).
 
 Best regards,
-
-The Eisenschmiede Gaming police leadership
+Eisenschmiede Gaming police leadership
