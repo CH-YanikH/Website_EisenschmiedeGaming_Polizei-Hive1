@@ -5,7 +5,7 @@ Our website served as a hub for essential documents related to police operations
 
 However, we are excited to announce the launch of our new website, which will serve as a more up-to-date and comprehensive resource for the police unit. We have provided a link below to access the new website, where you will find the latest information, important documents, and updates related to our operations.
 
-Link to the new website: [Insert Link]
+Link to the new website: https://sites.google.com/view/police-hive-1/startseite
 
 We apologize for any inconvenience caused by the closure of the previous website. We highly encourage you to explore our new website to stay informed and engaged with the Eisenschmiede Gaming Project's police unit. Thank you for your continued support.
 
